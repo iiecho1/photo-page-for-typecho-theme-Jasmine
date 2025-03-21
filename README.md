@@ -1,3 +1,4 @@
+# 仅适配Jasmine主题**V2.5.5**版本/V3暂未适配。
 # photo-page-for-typecho-theme-Jasmine
 适配Typecho主题[Jasmine](https://github.com/liaocp666/Jasmine)的相册页面模板。
 
